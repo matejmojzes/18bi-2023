@@ -81,3 +81,7 @@ Let's begin with a short survey – what do the following keywords mean to you,
 1. t-sql
 1. cube
 1. report
+
+Result:
+
+![Survey results](files/intro_survey.png)

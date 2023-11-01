@@ -42,3 +42,7 @@ For a practical implementation we will talk about the following set of basic opt
 2. Using lightweight libraries, e.g. [pygrametl](http://chrthomsen.github.io/pygrametl/)
 3. Cloud pay-as-you-go services, e.g. [Keboola](https://www.keboola.com/)
 4. Enterprise-level solutions, e.g. [Microsoft SQL Server Integration Services](https://en.wikipedia.org/wiki/SQL_Server_Integration_Services)
+
+## Notes:
+
+![Notes](files/etl_notes.jpg)

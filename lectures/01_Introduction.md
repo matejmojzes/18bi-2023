@@ -11,7 +11,7 @@ _October 5 2023_
 My name is Matej Mojzeš and I will be your lecturer, I also:
 
 * Have a Ph.D. in integer optimization heuristics at the Department of Software Engineering, FNSPE CTU in Prague
-* Lead a Data Science team in Open Bean
+* Head of data in SharpGrid
 * Possess several years of experience in Business Intelligence, Data Warehousing, Engineering, and Data Science in both start-up and enterprise environments
 
 Feel free to see more on my [LinkedIn profile](https://www.linkedin.com/in/matejmojzes) and add me to your network.

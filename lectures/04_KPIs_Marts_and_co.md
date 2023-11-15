@@ -1,6 +1,6 @@
 # Lecture #4: KPIs, Data Marts, Online Analytical Processing
 
-_November 8 2023_
+_November 9 2023_
 
 
 ## KPIs – Key Performance Indicators
@@ -29,3 +29,7 @@ _November 8 2023_
     - [Cubes](https://en.wikipedia.org/wiki/Cubes_(OLAP_server))
   - SQL Server Analysis Services (see Kimball...)
   - [Elastic Search](https://stackoverflow.com/questions/35513249/reasons-against-using-elasticsearch-as-an-olap-cube)
+
+## Notes:
+
+![Notes](files/olap_notes.jpg)

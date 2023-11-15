@@ -15,3 +15,7 @@ Three ways I would recommend on how to deal with it, based on your organization 
 3. Small and Medium Enterprises, with less engineering skills can use e.g. [Microsoft Power BI](https://powerbi.microsoft.com/en-us/), [Tableau](https://www.tableau.com/) or [Good Data](https://www.gooddata.com/) via [Keboola](https://www.keboola.com/)
 4. Enterprise level: e.g. [SQL Server Reporting Services](https://docs.microsoft.com/en-us/sql/reporting-services/create-deploy-and-manage-mobile-and-paginated-reports) (SSRS)
    * See **Chapter 10 - Building BI Applications in Reporting Services - A High-Level Architecture for Reporting in the MS DWH Toolkit** — definitely read this one, to understand in full detail what reporting typically means and you will understand the motivation for proper separation of concerns (the data, business logic, presentation layer, the execution back-end) and the ideal tooling
+
+## Notes:
+
+![Notes](files/reporting_notes.jpg)

@@ -1,0 +1,3 @@
+Facts: [video_id, trending_date, category_id, publish_time, thumbnail_link]
+Options: [category_id, comments_disabled, ratings_disabled, video_error_or_removed]
+Rating: [video_id, views, likes, dislikes, comment_count]
